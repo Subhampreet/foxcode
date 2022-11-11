@@ -1,0 +1,49 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.header{
+    width: 100%;
+    padding: 10px 50px;
+}
+
+.header .body{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header .body .left .logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header .body .left .logo img{
+    width: 60px;
+    border-radius: 90%;
+}
+
+.header .body .left .logo h4{
+    margin: 0px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.header .body .right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 35%;
+}
+
+.header .body .right h5{
+    text-decoration: none !important;
+    padding: 15px 30px;
+    background-color: rgb(241, 137, 17);
+    color: white;
+    
+}
+
