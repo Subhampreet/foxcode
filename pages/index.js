@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Email from '../components/Email/Email'
 import Header from '../components/Home/Header'
 import styles from '../styles/Home.module.css'
 
@@ -15,7 +16,9 @@ export default function Home() {
         <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet"></link>
       </Head>
 
-      <Header />      
+      <Header />     
+
+      <Email /> 
     </div>
   )
 }
