@@ -1,5 +1,10 @@
 A Project for Personal Code Snippets and Wikis of my Dev Journey 🦊
 
+### Components Created
+
+### NPM Packages Experimented
+- [React Email Package](https://react.email/docs/introduction) : A Demo vercel Email component has been created using this package
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
